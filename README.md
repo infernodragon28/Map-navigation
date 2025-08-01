@@ -1,3 +1,32 @@
+Map Navigation App – React & Leaflet
+Description:
+An interactive web-based map navigation application built with React and Leaflet that allows users to:
+
+Click on a map to drop location pins.
+
+Automatically retrieve address details for each pin using OpenStreetMap's reverse geocoding API.
+
+View a sidebar listing all saved pins, stored locally in the browser.
+
+Seamlessly navigate the map with a responsive and user-friendly UI.
+
+Tech Stack:
+React, Leaflet, React-Leaflet, OpenStreetMap (Nominatim API), JavaScript, HTML, CSS
+
+Features:
+
+Pin placement with real-time address fetching
+
+Reverse geocoding integration
+
+Local storage for session persistence
+
+Sidebar for quick pin access
+
+Responsive design
+
+Steps:-
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
